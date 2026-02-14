@@ -1,0 +1,3 @@
+The HTML file is in the src > templates > index.html
+
+Code for the file run python src/app.py or python app.py
